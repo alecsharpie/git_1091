@@ -1,5 +1,5 @@
 def clean_text(text):
     return text.lower()
 
-def token_function(text):
+def tokenizer(text):
      return text.split(' ')
